@@ -110,14 +110,14 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Authors
 
 - Healthcare AI Team  
-- [Raghad Kafafy](www.linkedin.com/in/raghad-kafafy-5a079b336)
+- [Raghad Kafafy](https://www.linkedin.com/in/raghad-kafafy-5a079b336/)
 
 ---
 
 ## 📬 Contact
 
 For questions, suggestions, or support, please contact:  
-**Email:** raghadehabkafafy@gmail.com
+**Email:** raghad.ehab.kafafy@icloud.com
 **phone number:** +201120412046
 
 ---
