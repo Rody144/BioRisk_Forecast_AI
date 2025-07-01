@@ -1,4 +1,4 @@
-[706BA01B-3A67-494E-8B0F-3A15E529557B](https://github.com/user-attachments/assets/5454d169-fc50-4b34-b6f3-d941a8f082cd)[Uploading 706BA01B-3A67-494E-8B0F-3A15E529557B.png…]()
+![Uploading 706BA01B-3A67-494E-8B0F-3A15E529557B.png…]()
 # 🧬 BioRisk Forecast AI
 
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io/)
