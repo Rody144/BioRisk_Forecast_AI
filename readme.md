@@ -1,4 +1,4 @@
-[Uploading BioRisk Forcast App.png…]()
+![Uploading BioRisk Forcast App.png…]()
 # 🧬 BioRisk Forecast AI
 
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io/)
